@@ -1,0 +1,15 @@
+C:\Users\elayn\Documents\GitHub\hoteldotnet\bin\Debug\net8.0\hoteldotnet.exe
+C:\Users\elayn\Documents\GitHub\hoteldotnet\bin\Debug\net8.0\hoteldotnet.deps.json
+C:\Users\elayn\Documents\GitHub\hoteldotnet\bin\Debug\net8.0\hoteldotnet.runtimeconfig.json
+C:\Users\elayn\Documents\GitHub\hoteldotnet\bin\Debug\net8.0\hoteldotnet.dll
+C:\Users\elayn\Documents\GitHub\hoteldotnet\bin\Debug\net8.0\hoteldotnet.pdb
+C:\Users\elayn\Documents\GitHub\hoteldotnet\obj\Debug\net8.0\hoteldotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elayn\Documents\GitHub\hoteldotnet\obj\Debug\net8.0\hoteldotnet.AssemblyInfoInputs.cache
+C:\Users\elayn\Documents\GitHub\hoteldotnet\obj\Debug\net8.0\hoteldotnet.AssemblyInfo.cs
+C:\Users\elayn\Documents\GitHub\hoteldotnet\obj\Debug\net8.0\hoteldotnet.csproj.CoreCompileInputs.cache
+C:\Users\elayn\Documents\GitHub\hoteldotnet\obj\Debug\net8.0\hoteldotnet.sourcelink.json
+C:\Users\elayn\Documents\GitHub\hoteldotnet\obj\Debug\net8.0\hoteldotnet.dll
+C:\Users\elayn\Documents\GitHub\hoteldotnet\obj\Debug\net8.0\refint\hoteldotnet.dll
+C:\Users\elayn\Documents\GitHub\hoteldotnet\obj\Debug\net8.0\hoteldotnet.pdb
+C:\Users\elayn\Documents\GitHub\hoteldotnet\obj\Debug\net8.0\hoteldotnet.genruntimeconfig.cache
+C:\Users\elayn\Documents\GitHub\hoteldotnet\obj\Debug\net8.0\ref\hoteldotnet.dll
